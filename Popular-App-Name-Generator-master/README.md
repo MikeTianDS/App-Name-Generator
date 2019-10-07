@@ -33,4 +33,3 @@ When you start the server, the address is http://you_compute_ip, then open it in
 
 > NOTE The first column is the model generated names which may be pupular if you take it as you app name. For the reason that evaluate the quality of generated names, we retrieve each generated name in original app names index to find the most similar app name, then display it's infomation. The generated app name may be good if the most similar app get good performance in installs, rating and reviews.
 
-![picture](pictures/output_results.png)
